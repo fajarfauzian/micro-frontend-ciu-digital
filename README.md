@@ -1,4 +1,4 @@
-# ciu-digital
+# micro-frontend-ciu-digital
 ciu isurance, menggunakan nextjs
 
 Run : 
